@@ -48,11 +48,11 @@ This prototype included:
 - Card trading
     - Ability to decline / accept the new trade
 
-More detailed notes including the empathy map is inside `dev log.pfd`
+More detailed notes including the empathy map is inside `dev-log.pfd`
 
 ## How To Use Prototype 1 and 2
 
-**Step 1** Open the prototype 1 folder.
+**Step 1** Open the `prototype-1` folder.
 
 **Step 2** Open `Prototype1.exe` to start playing
 
@@ -60,7 +60,7 @@ More detailed notes including the empathy map is inside `dev log.pfd`
 
 ## How To Use Prototype 3
 
-**Step 1** Open the prototype 3 folder.
+**Step 1** Open the `prototype-3` folder.
 
 **Step 2** Type `cmd` to enter the command line
 
